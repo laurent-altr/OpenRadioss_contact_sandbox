@@ -1,3 +1,4 @@
+This is a standalone part of [OpenRadioss](https://github.com/OpenRadioss/OpenRadioss) that performs the collision detection on a given dataset
 # Usage
 
 ## Step 1: Build the Data File
