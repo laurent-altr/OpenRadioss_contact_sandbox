@@ -39,7 +39,7 @@ Success: All candidates_ref are found in candidates.
 
 # Code
 
-The entry point of the program is the routine `INTER7_CANDIDATE_PAIRS` located in the file `inter7_candidate_pairs.F`.  
+The entry point of the program is the routine `INTER7_CANDIDATE_PAIRS` located in the file [`inter7_candidate_pairs.F`](https://github.com/laurent-altr/OpenRadioss_contact_sandbox/blob/main/inter7_candidate_pairs.F).
 This routine contains the collision detection algorithm for `/INTER/TYPE7` (in a somewhat simplified form).
 
 ## Key concepts
